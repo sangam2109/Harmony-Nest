@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "builds": [
-    {
-      // Specify file to convert to a serverless function
-      "src": "index.js",
-      // Specify the NPM module that is used for the build
-      "use": "@express/node"
+  "functions": {
+    "api/index.js": {
+      "runtime": "@now/node@latest",
+      "memory": 1024
     }
-  ],
-"routes": [
+  },
+  "routes": [
     {
-      // Specify which paths will route to a destination using a regex
+      "src": "/api/(.*)",
+      "dest": "api/index.js"
+    },
+    {
       "src": "/(.*)",
-      // Specify the paths' destination
-      "dest": "index.js"
+      "dest": "api/index.js"
     }
   ]
 }
