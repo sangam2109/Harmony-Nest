@@ -1,33 +1,33 @@
-![Mittal-High](https://socialify.git.ci/dev-AshishRanjan/Mittal-High/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto)
+![HarmonyNest](https://socialify.git.ci/dev-AshishRanjan/HarmonyNest/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto)
 
 <div align="center">
  <p>
    
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2FMittal-High%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/Mittal-High)
-![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/Mittal-High)
-![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/Mittal-High)
-![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/Mittal-High)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2FHarmonyNest%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/HarmonyNest)
+![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/HarmonyNest)
+![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/HarmonyNest)
+![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/HarmonyNest)
   
-![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/Mittal-High)
+![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/HarmonyNest)
 
-![Github](https://img.shields.io/github/license/dev-AshishRanjan/Mittal-High)
-![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/Mittal-High)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/Mittal-High)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/Mittal-High)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/Mittal-High)
+![Github](https://img.shields.io/github/license/dev-AshishRanjan/HarmonyNest)
+![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/HarmonyNest)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/HarmonyNest)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/HarmonyNest)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/HarmonyNest)
 
  </p>
 </div>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+Welcome+to+Mittal-High+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻;💡+A+DBMS+Project+💡;🌐+Check+our+Website+🌐;🙏🏻+Thanks+for+Contributing+🙏🏻"
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23${textVal}&lines=+👋🏻+Welcome+to+HarmonyNest+👋🏻;👨🏻‍💻+Lets+Build+Together+👩🏻‍💻;💡+A+DBMS+Project+💡;🌐+Check+our+Website+🌐;🙏🏻+Thanks+for+Contributing+🙏🏻"
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
-# Mittal-High
+# HarmonyNest
 
 We created this project as a part of Database Management System Course.
 
