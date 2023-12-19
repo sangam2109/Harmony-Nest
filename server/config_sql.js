@@ -4,7 +4,7 @@ const config = {
   password: process.env.DB_PASSWORD || "sam*2109",
   database: process.env.DB_DATABASE || "apartment-project",
   insecureAuth: true,
-  protocol: "mysql",
+  protocol: "postgres",
 };
 
 module.exports = config;
